@@ -2,3 +2,4 @@
 Mesh/* filter=lfs diff=lfs merge=lfs -text
 Content/Mesh/* filter=lfs diff=lfs merge=lfs -text
 Content/Mesh/*.uasset filter=lfs diff=lfs merge=lfs -text
+/Content/Mesh/* filter=lfs diff=lfs merge=lfs -text
