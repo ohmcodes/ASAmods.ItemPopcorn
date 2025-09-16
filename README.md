@@ -4,7 +4,7 @@ Structure that can popcorn drop all items into the world
 ## PLEASE ⭐STAR⭐ THE REPO IF YOU LIKE IT! THANKS!
 
 ## Video
-Soon
+[https://www.youtube.com/watch?v=MNp0oABe--A](https://www.youtube.com/watch?v=MNp0oABe--A)
 
 ## Mod link
 https://legacy.curseforge.com/ark-survival-ascended/mods/egg-grinder
